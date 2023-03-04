@@ -6,6 +6,53 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "testeo@mail.com",
+      "password": "$2a$10$00EjrEuVbEr6nhkxyCrERO.4oUq6dSr7qP9ApNvyX7IfNYH68bwvS",
+      "id": 2
+    },
+    {
+      "email": "teste12312312o@mail.com",
+      "password": "$2a$10$BtbRZympJbEa8y2NDs5ocOK0Hi2nFcocFxTzPLg/LyV/nmRlT8JWa",
+      "teste": "testando esse lixo",
+      "id": 3
+    },
+    {
+      "email": "mail@mail.com",
+      "password": "$2a$10$3RIx9Z/0WFO/kwOnOnJITuVPVLeTfjFu/dkH60VhNI1DoNJ6xESSW",
+      "teste": "testando esse lixo",
+      "id": 4
+    }
+  ],
+  "reports": [
+    {
+      "title": "criado pelo user 55",
+      "description": "será?",
+      "image": "Uasdas",
+      "date": "04/03",
+      "problem-field": "selected option",
+      "since-when": "always",
+      "email": "vsf@mail.com",
+      "césar": "romero",
+      "tgeste": 555,
+      "feijao": "arroz",
+      "userId": 4,
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "body": "É verdade essa parada ai!!",
+      "reportId": 1,
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "body": "É verdade essa parada ai!!",
+      "reportId": 1,
+      "userId": 4,
+      "id": 2
     }
   ]
 }
