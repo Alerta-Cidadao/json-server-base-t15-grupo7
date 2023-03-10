@@ -39,6 +39,39 @@
       "feijao": "arroz",
       "userId": 4,
       "id": 1
+    },
+    {
+      "title": "Mais um report do user 4",
+      "description": "será?",
+      "image": "Uasdas",
+      "date": "06/03",
+      "problem-field": "selected",
+      "since-when": "always",
+      "email": "vsf@mail.com",
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "title": "Mais um report do user 4",
+      "description": "Novo report na area, essa é a descrição!",
+      "image": "Uasdas",
+      "date": "06/03",
+      "problem-field": "selected",
+      "since-when": "always",
+      "email": "vsf@mail.com",
+      "userId": 4,
+      "id": 3
+    },
+    {
+      "title": "Mais um report do user 4",
+      "description": "Uma semana sem agua na rua numero 7",
+      "image": "Uasdas",
+      "date": "06/03",
+      "problem-field": "selected",
+      "since-when": "always",
+      "email": "",
+      "userId": 4,
+      "id": 4
     }
   ],
   "comments": [
