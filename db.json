@@ -1,91 +1,27 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
-      "id": 1
-    },
-    {
-      "email": "testeo@mail.com",
-      "password": "$2a$10$00EjrEuVbEr6nhkxyCrERO.4oUq6dSr7qP9ApNvyX7IfNYH68bwvS",
-      "id": 2
-    },
-    {
-      "email": "teste12312312o@mail.com",
-      "password": "$2a$10$BtbRZympJbEa8y2NDs5ocOK0Hi2nFcocFxTzPLg/LyV/nmRlT8JWa",
-      "teste": "testando esse lixo",
-      "id": 3
-    },
-    {
       "email": "mail@mail.com",
       "password": "$2a$10$3RIx9Z/0WFO/kwOnOnJITuVPVLeTfjFu/dkH60VhNI1DoNJ6xESSW",
       "teste": "testando esse lixo",
+      "state": "MG",
+		  "city": "Manhuaçu",
       "id": 4
     }
   ],
   "reports": [
     {
-      "title": "criado pelo user 55",
-      "description": "será?",
-      "image": "Uasdas",
-      "date": "04/03",
-      "problem-field": "selected option",
-      "since-when": "always",
-      "email": "vsf@mail.com",
-      "césar": "romero",
-      "tgeste": 555,
-      "feijao": "arroz",
+      "title": " Esgoto a céu aberto! ",
+      "name": " Cidadão consciente ",
+      "state": "MG",
+      "city": "Manhuaçu",
+      "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere eu nisl nec pretium. Integer at tincidunt felis. Suspendisse potenti. Curabitur sodales nec lacus sed malesuada. Nam iaculis, sapien sit amet ornare vestibulum, felis nunc aliquam est, vel fringilla velit nisl quis ex. Vestibulum odio nulla, blandit eu ipsum quis, hendrerit feugiat urna. Pellentesque placerat leo sit amet enim malesuada, eget posuere ex euismod. Sed laoreet mi nunc, in aliquam odio ultricies vel. Etiam fermentum, augue ac facilisis aliquet, turpis dui pretium magna, non accumsan erat diam bibendum ipsum. Nam in lacus eu mauris rhoncus vestibulum id vitae massa. Phasellus pulvinar ipsum quis arcu iaculis, non malesuada magna posuere. Praesent in velit imperdiet, pharetra lectus ac, tristique elit. Ut tempor ligula imperdiet posuere dapibus. Curabitur ac sem leo. Sed a ultrices elit, aliquet mattis augue. Quisque lobortis sem quis lorem mattis, quis venenatis ligula tincidunt.",
+      "img": "https://img.r7.com/images/comunidade-vietna-esgoto-20092019102423605?dimensions=660x360",
       "userId": 4,
       "id": 1
-    },
-    {
-      "title": "Mais um report do user 4",
-      "description": "será?",
-      "image": "Uasdas",
-      "date": "06/03",
-      "problem-field": "selected",
-      "since-when": "always",
-      "email": "vsf@mail.com",
-      "userId": 4,
-      "id": 2
-    },
-    {
-      "title": "Mais um report do user 4",
-      "description": "Novo report na area, essa é a descrição!",
-      "image": "Uasdas",
-      "date": "06/03",
-      "problem-field": "selected",
-      "since-when": "always",
-      "email": "vsf@mail.com",
-      "userId": 4,
-      "id": 3
-    },
-    {
-      "title": "Mais um report do user 4",
-      "description": "Uma semana sem agua na rua numero 7",
-      "image": "Uasdas",
-      "date": "06/03",
-      "problem-field": "selected",
-      "since-when": "always",
-      "email": "",
-      "userId": 4,
-      "id": 4
     }
   ],
   "comments": [
-    {
-      "body": "É verdade essa parada ai!!",
-      "reportId": 1,
-      "userId": 4,
-      "id": 1
-    },
-    {
-      "body": "É verdade essa parada ai!!",
-      "reportId": 1,
-      "userId": 4,
-      "id": 2
-    }
+    
   ]
 }
